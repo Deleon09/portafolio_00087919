@@ -1,0 +1,38 @@
+*ALGORITMO PRIMER PROBLEMA:
+s = inicializar
+push(n,.....
+
+if(empty){
+cout << error << endl;
+}
+pop(n)
+if(empty){
+cout << error << endl;
+}
+pop(n)
+if(empty){
+cout << error << endl;
+}
+
+i=pop(n)
+return i
+
+
+*ALGORITMO SEGUNDO PROBLEMA:
+s = inicializar
+push(n,.....
+
+if(empty){
+cout << error << endl;
+}
+peek(n)
+if(empty){
+cout << error << endl;
+}
+peek(n)
+if(empty){
+cout << error << endl;
+}
+
+i=peek(n)
+return i
