@@ -1,0 +1,21 @@
+---ARBOL 1---
+raiz:Nodo A; ramas:Nodos B,D,C,E; hojas:Nodos G,H,I,F.
+nivel:Nodos A=0,B=1,C=1,D=2,E=2,F=2,G=3,H=3,I=3.
+profundidad:3; peso:9; orden:2.
+sub-arbol: raiz:Nodo C; ramas:Nodo E; hojas:Nodos H,I,F.
+El arbol NO es lleno o estricto.
+El arbol NO es perfecto o completo.
+recorrido pre-orden:A,B,D,G,C,E,H,I,F.
+recorrido post-orden:G,D,B,H,I,E,F,C,A.
+recorrido in-orden:D,G,B,A,H,E,I,C,F.
+
+---ARBOL 2---
+raiz:Nodo A; ramas:Nodos B,C,D,E,F,H; hojas:Nodos I,J,G,K,L.
+nivel:Nodos A=0,B=1,C=2,D=2,E=3,F=3,G=3,H=3,I=4,J=4,K=4,L=4.
+profundidad:4; peso:12; orden:2.
+sub-arbol: raiz:Nodo C; ramas:Nodos E,F; hojas:Nodos I,J.
+El arbol NO es lleno o estricto.
+El arbol NO es perfecto o completo.
+recorrido pre-orden:A,B,C,E,I,F,J,D,G,H,K,L.
+recorrido post-orden:I,E,J,F,C,G,K,L,H,D,B,A.
+recorrido in-orden:E,I,C,F,J,B,G,D,K,H,A,L.
